@@ -74,7 +74,7 @@
 <div align="center">
 
 ![Pritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=rathod-pritesh&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rathod-pritesh&theme=tokyonight)
 
 </div>
 
