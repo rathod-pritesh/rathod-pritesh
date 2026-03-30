@@ -72,10 +72,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Pritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rathod-pritesh&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rathod-pritesh&theme=tokyonight" />
 </div>
 
 ---
