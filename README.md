@@ -69,13 +69,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rathod-pritesh&theme=tokyonight" />
-</div>
+[![Pritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rathod-pritesh&theme=tokyo-night&hide_border=true)](https://github.com/rathod-pritesh)
 
 ---
 
