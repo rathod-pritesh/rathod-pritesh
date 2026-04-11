@@ -79,9 +79,9 @@
 
 <div align="center">
 
-![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyo_night&hide_border=true&include_all_commits=true&count_private=true)
+![Pritesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyo_night&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rathod-pritesh&layout=compact&theme=tokyo_night&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rathod-pritesh&layout=compact&theme=tokyo_night&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rathod-pritesh&theme=tokyo-night&hide_border=true)
 
