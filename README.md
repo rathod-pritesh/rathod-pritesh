@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hey 👋, I'm Pritesh Rathod
-
 ### Go · Python · SvelteKit · MongoDB · n8n
 ### Full-Stack Engineer & Automation Builder
 
@@ -34,6 +33,7 @@
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AstraDB](https://img.shields.io/badge/AstraDB-8B00FF?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 ### 🤖 Automation & AI
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -44,6 +44,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![UV](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
 
 ---
 
@@ -67,11 +68,24 @@
 - Contact form → Google Sheets via n8n
 - Zero backend overhead, fully automated
 
+### 🛒 EcomTrack *(FastAPI + AstraDB)*
+- Consumer purchase analytics API built to learn AstraDB
+- Order tracking by user, product and city
+- Analytics endpoints for top spenders and category revenue
+
 ---
 
 ## 📊 GitHub Activity
 
-[![Pritesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rathod-pritesh&theme=tokyo-night&hide_border=true)](https://github.com/rathod-pritesh)
+<div align="center">
+
+![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyo_night&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rathod-pritesh&layout=compact&theme=tokyo_night&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rathod-pritesh&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
