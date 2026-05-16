@@ -1,8 +1,8 @@
 <div align="center">
 
 # Hey 👋, I'm Pritesh Rathod
-### Go · Python · SvelteKit · MongoDB · n8n
-### Full-Stack Engineer & Automation Builder
+### · Python · FastAPI · SvelteKit · MySQL · n8n
+### Python Developer | FastAPI & AI Automation Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathodpritesh)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathodpritesh0712@gmail.com)
@@ -24,15 +24,15 @@
 ## ⚡ Tech Stack
 
 ### 🖥️ Languages & Frameworks
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AstraDB](https://img.shields.io/badge/AstraDB-8B00FF?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 ### 🤖 Automation & AI
@@ -43,7 +43,6 @@
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![UV](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
 
 ---
@@ -88,8 +87,6 @@
 ---
 
 ## 💡 Focus
-
-> *Building things that work — not just demos.*
 
 Open to **Jr. Software Engineer** roles, freelance work, and collaborations 🚀
 
