@@ -101,7 +101,7 @@ I am actively seeking opportunities in **Full-Stack Development**, **Backend Eng
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rathod-pritesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=rathod-pritesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
