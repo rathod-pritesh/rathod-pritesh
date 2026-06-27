@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey 👋, I'm Pritesh Rathod
+# Hey 👋, I am Pritesh Rathod
 
-### Full-Stack Developer · Python · Go · SvelteKit · FastAPI · MongoDB & MySQL
+### Full-Stack Developer · Python · Go · SvelteKit · FastAPI · MongoDB · MySQL
 
 **Backend Engineering · AI-Powered Applications · Scalable Web Systems**
 
@@ -15,19 +15,19 @@
 
 ## About Me
 
-I'm a Full-Stack Developer focused on backend engineering, AI-driven applications, and scalable web systems. Currently pursuing an **M.Sc. in Computer Applications & IT** at K. S. School of Business Management and IT, and interning as an **IBM SkillsBuild AI & Cloud Intern** at Edunet Foundation.
+I am a Full-Stack Developer with a strong focus on backend engineering, AI-driven applications, and scalable web systems. I am currently pursuing an **Master of Science in Computer Applications and Information Technology** at K. S. School of Business Management and IT, and working as an **IBM SkillsBuild AI and Cloud Intern** at Edunet Foundation.
 
-My day-to-day involves building REST APIs, designing backend systems, managing databases, and integrating AI capabilities into real-world software. I work primarily with **Python, Go, SvelteKit, FastAPI, Flask, MongoDB, and MySQL** — with Docker and Git as standard parts of my workflow.
+My primary technology stack includes **Python, Go, SvelteKit, FastAPI, Flask, MongoDB, and MySQL**. I have experience designing REST APIs, building backend systems, managing databases, and developing modern web applications. Docker, Git, and version-controlled development workflows are an integral part of my process.
 
-Over the past year I've been deep in AI integration: RAG pipelines, semantic search, LLM workflows, and automation with n8n. I build things that solve real problems — and keep working once deployed.
+Over the past year, I have focused on integrating AI capabilities into software products, exploring Retrieval-Augmented Generation, semantic search, and large language model workflows. I build things that solve real problems and keep working once deployed.
 
-Actively seeking opportunities in **Full-Stack Development**, **Backend Engineering**, and **AI-powered software development**.
+I am actively seeking opportunities in **Full-Stack Development**, **Backend Engineering**, and **AI-powered software development** where I can contribute to impactful products and continue growing as a software engineer.
 
 ---
 
 ## Tech Stack
 
-### Languages & Frameworks
+### Languages and Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
@@ -39,12 +39,12 @@ Actively seeking opportunities in **Full-Stack Development**, **Backend Engineer
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![AstraDB](https://img.shields.io/badge/AstraDB-8B00FF?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
-### AI & Automation
+### AI and Automation
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
 
-### Tools & Platforms
+### Tools and Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![UV](https://img.shields.io/badge/UV-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
@@ -54,30 +54,31 @@ Actively seeking opportunities in **Full-Stack Development**, **Backend Engineer
 ## Featured Projects
 
 ### 🏗️ BuildTrack — Construction Management Platform
-- Computer vision-based automated attendance using **OpenCV face recognition**
-- Role-based access control (RBAC) with project and reporting workflows
-- Built with **Flask + MySQL**; full CRUD operations for site management
+- Automated attendance tracking using **OpenCV-based face recognition**
+- Role-based access control with project management and reporting workflows
+- Built with **Flask and MySQL** with full CRUD operations for site management
 
 ### 🤖 RAG Medical Chatbot
-- Document-based Q&A over medical PDFs using **Retrieval-Augmented Generation**
-- HuggingFace embeddings + Pinecone vector store + Groq LLM
-- Modular architecture with **LangChain + FastAPI**
+- Document-based question answering over medical PDFs using **Retrieval-Augmented Generation**
+- HuggingFace embeddings, Pinecone vector store, and Groq LLM
+- Modular architecture with **LangChain and FastAPI**
 
 ### 🎙️ AI Voice Assistant
-- Real-time voice interaction web app with NLP-based intent recognition
-- Implemented **all-MiniLM-L6-v2** for contextual understanding
-- Low-latency frontend-backend communication via **FastAPI + SvelteKit**
+- Real-time voice interaction web application with NLP-based intent recognition
+- Uses **all-MiniLM-L6-v2** for contextual understanding
+- Low-latency communication between frontend and backend via **FastAPI and SvelteKit**
 
-### 📰 AI News Summarization Pipeline *(n8n)*
-- Fully automated pipeline — fetches, filters, and delivers news summaries
-- Zero manual steps; built entirely with intelligent **n8n workflows**
+### 📰 AI News Summarization Pipeline
+- Fully automated pipeline that fetches, filters, and delivers news summaries
+- Built entirely with **n8n workflows** with zero manual steps
 
-### 📊 EcomTrack *(FastAPI + AstraDB)*
+### 📊 EcomTrack
 - Consumer purchase analytics API with order tracking by user, product, and city
-- Analytics endpoints for top spenders and category revenue
+- Analytics endpoints for top spenders and category-level revenue
+- Built with **FastAPI and AstraDB**
 
-### 📋 Lead Capture Pipeline *(n8n)*
-- Contact form → Google Sheets, fully automated via n8n
+### 📋 Lead Capture Pipeline
+- Automated contact form submission to Google Sheets via **n8n**
 - Zero backend overhead required
 
 ---
@@ -85,11 +86,10 @@ Actively seeking opportunities in **Full-Stack Development**, **Backend Engineer
 ## Certifications
 
 - 🏅 **AI Fluency** — Anthropic
-- ☁️ **IBM SkillsBuild AI & Cloud** — IBM / Edunet Foundation
-- 🤖 **Getting Started with Artificial Intelligence** — IBM SkillsBuild
+- ☁️ **Getting Started with Artificial Intelligence** — IBM SkillsBuild
 - 🧠 **Foundations of Prompt Engineering** — AWS Skill Builder
-- 🐍 **Python for Beginners + Advanced Python** — Udemy
-- *(+ 13 more)*
+- 🐍 **Python for Beginners and Advanced Python** — Udemy
+- 18 certifications total across AI, cloud, and software development
 
 ---
 
@@ -97,9 +97,23 @@ Actively seeking opportunities in **Full-Stack Development**, **Backend Engineer
 
 <div align="center">
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=rathod-pritesh&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/rathod-pritesh)
+<img src="https://github-profile-trophy.vercel.app/?username=rathod-pritesh&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rathod-pritesh&theme=tokyo-night&hide_border=true)
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rathod-pritesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathod-pritesh&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/rathod-pritesh" alt="GitHub Contribution Chart" />
 
 </div>
 
@@ -107,9 +121,9 @@ Actively seeking opportunities in **Full-Stack Development**, **Backend Engineer
 
 ## Currently
 
-- 🎓 M.Sc. CA & IT — K. S. School of Business Management and IT *(2025–2027)*
-- 💼 IBM SkillsBuild AI & Cloud Intern @ **Edunet Foundation** *(Jun 2026 – Present)*
-- 🔍 Open to **Full-Stack**, **Backend**, and **AI/ML engineering** roles
+- 🎓 Master of Science in Computer Applications and IT — K. S. School of Business Management and IT (2025 to 2027)
+- 💼 IBM SkillsBuild AI and Cloud Intern at **Edunet Foundation** (June 2026 to Present)
+- 🔍 Open to **Full-Stack**, **Backend**, and **AI engineering** roles
 
 ---
 
