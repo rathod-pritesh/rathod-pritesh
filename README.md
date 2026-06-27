@@ -97,11 +97,11 @@ I am actively seeking opportunities in **Full-Stack Development**, **Backend Eng
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=rathod-pritesh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rathod-pritesh&theme=tokyonight" alt="GitHub Summary" />
 
 <br/><br/>
 
