@@ -53,7 +53,7 @@ I am actively seeking opportunities in **Full-Stack Development**, **Backend Eng
 
 ## Featured Projects
 
-### 🏗️ BuildTrack — Construction Management Platform
+### 🏗️ BuildTrack: Construction Management Platform
 - Automated attendance tracking using **OpenCV-based face recognition**
 - Role-based access control with project management and reporting workflows
 - Built with **Flask and MySQL** with full CRUD operations for site management
@@ -85,10 +85,10 @@ I am actively seeking opportunities in **Full-Stack Development**, **Backend Eng
 
 ## Certifications
 
-- 🏅 **AI Fluency** — Anthropic
-- ☁️ **Getting Started with Artificial Intelligence** — IBM SkillsBuild
-- 🧠 **Foundations of Prompt Engineering** — AWS Skill Builder
-- 🐍 **Python for Beginners and Advanced Python** — Udemy
+- 🏅 **AI Fluency** by Anthropic
+- ☁️ **Getting Started with Artificial Intelligence** by IBM SkillsBuild
+- 🧠 **Foundations of Prompt Engineering** by AWS Skill Builder
+- 🐍 **Python for Beginners and Advanced Python** by Udemy
 - 18 certifications total across AI, cloud, and software development
 
 ---
@@ -97,11 +97,7 @@ I am actively seeking opportunities in **Full-Stack Development**, **Backend Eng
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rathod-pritesh&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 <br/><br/>
 
@@ -121,7 +117,7 @@ I am actively seeking opportunities in **Full-Stack Development**, **Backend Eng
 
 ## Currently
 
-- 🎓 Master of Science in Computer Applications and IT — K. S. School of Business Management and IT (2025 to 2027)
+- 🎓 Master of Science in Computer Applications and IT at K. S. School of Business Management and IT (2025 to 2027)
 - 💼 IBM SkillsBuild AI and Cloud Intern at **Edunet Foundation** (June 2026 to Present)
 - 🔍 Open to **Full-Stack**, **Backend**, and **AI engineering** roles
 
