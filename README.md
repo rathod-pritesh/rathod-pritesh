@@ -118,13 +118,7 @@ I am actively seeking opportunities in **Full-Stack Development**, **Backend Eng
 ## Currently
 
 - 🎓 Master of Science in Computer Applications and IT at K. S. School of Business Management and IT (2025 to 2027)
-- 💼 IBM SkillsBuild AI and Cloud Intern at **Edunet Foundation** (June 2026 to Present)
+- 💼 IBM SkillsBuild AI and Cloud Intern at **Edunet Foundation** (June 2026 to July 2026)
 - 🔍 Open to **Full-Stack**, **Backend**, and **AI engineering** roles
 
 ---
-
-<div align="center">
-
-📬 **rathodpritesh0712@gmail.com**
-
-</div>
