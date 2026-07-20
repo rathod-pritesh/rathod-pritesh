@@ -91,23 +91,14 @@ I am actively seeking opportunities in **Full-Stack Development**, **Backend Eng
 ---
 
 ## GitHub Activity
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 <br/><br/>
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rathod-pritesh&theme=tokyonight" alt="GitHub Summary" />
-
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathod-pritesh&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathod-pritesh&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
 <br/><br/>
-
 <img src="https://ghchart.rshah.org/rathod-pritesh" alt="GitHub Contribution Chart" />
-
 </div>
 
 ---
