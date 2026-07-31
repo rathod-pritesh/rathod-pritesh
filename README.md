@@ -12,7 +12,7 @@
 
 ## About Me
 
-I am a backend developer with a growing focus on AI systems. I am currently pursuing a Master of Science in Computer Applications and Information Technology at K. S. School of Business Management and IT, and worked as an IBM SkillsBuild AI and Cloud Intern at Edunet Foundation.
+I am a backend developer with a growing focus on AI systems. I am currently pursuing a Master of Science in Computer Applications and Information Technology at K. S. School of Business Management and IT, and working as an IBM SkillsBuild AI and Cloud Intern at Edunet Foundation.
 
 My main stack is Python, Go, FastAPI, Flask, MongoDB, and MySQL, with SvelteKit for the frontend when a project needs one. I design REST APIs, build backend systems from the ground up, and manage the databases behind them. Docker and Git are part of nearly everything I ship, not an afterthought.
 
@@ -83,18 +83,16 @@ Most of my work over the last year has moved toward AI, specifically Retrieval A
 - AI Fluency by Anthropic
 - Getting Started with Artificial Intelligence by IBM SkillsBuild
 - Foundations of Prompt Engineering by AWS Skill Builder
-- ython for Beginners and Advanced Python by Udemy
+- Python for Beginners and Advanced Python by Udemy
 - 18 certifications total across AI, cloud, and software development
 
 ---
 
 ## GitHub Activity
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rathod-pritesh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-<br/><br/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rathod-pritesh&theme=tokyonight" alt="GitHub Summary" />
 <br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathod-pritesh&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rathod-pritesh&theme=tokyonight" alt="Top Languages" />
 <br/><br/>
 <img src="https://ghchart.rshah.org/rathod-pritesh" alt="GitHub Contribution Chart" />
 </div>
